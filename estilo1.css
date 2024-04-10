@@ -1,0 +1,43 @@
+table{
+    border-style:double;
+    width: 50px;
+    height: 50px;
+
+}
+.uno{
+    text-align: center;
+    color: #320cf0;
+    background: rgb(7, 233, 233);
+    font-family: cursive;
+    font-size: 1.5rem;
+   
+}
+
+.dos{
+    background: blueviolet;
+    color: #e8e6f0;
+    width: 10px;
+    height: 10px;
+  
+}
+
+.tres{
+    background: rgb(225, 10, 10);
+    color: #e3f993;
+   
+}
+
+.cuatro{
+    background: rgb(7, 224, 33);
+    color: #e52121;
+   
+}
+
+.cinco{
+    background: rgb(246, 9, 175);
+    color: #e0f91d;
+   
+}
+tr{
+    border-style: double;
+}

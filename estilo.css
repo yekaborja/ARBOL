@@ -1,0 +1,23 @@
+body{
+    background: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 1.2rem;
+    background: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+}
+
+.uno{
+    color: blue;
+}
+
+.dos{
+    color: blueviolet;
+}
+
+.tres{
+    color: chartreuse;
+}
